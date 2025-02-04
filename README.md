@@ -1,0 +1,1 @@
+Gemini-ChatBox is an AI integrated platform where you can find answer of any question.
